@@ -1,5 +1,5 @@
 # ADA-Hotel-Booking-Smart-Contract-ChatGPT
-This is a ADA Plutus Hotel Booking Smart Contract Written by ChatGPT. There maybe some mistakes but not a bad job from ChatGPT, could see the start of something here!
+This is a ADA Plutus Hotel Booking Smart Contract written from a conversation with OpenAI's ChatGPT. There maybe some mistakes but not a bad job from ChatGPT, could see the start of something here!
 
 ## Question: Can you write an ADA smart used to book a hotel room, e.g. basic room 100 ADA, basic room with breakfast included 120 ADA and luxury room with breakfast included 170 ADA?
 
